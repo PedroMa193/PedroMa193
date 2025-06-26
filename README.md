@@ -1,5 +1,6 @@
-Olá ![](https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif)Meu nome é Pedro
-=============================================================================================================================
+<p align="center"><img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif"/></p>
+
+# Olá, meu nome é Pedro
 
 Desenvolvedor
 -------------
