@@ -7,7 +7,7 @@ Desenvolvedor
 
 Estudante de Ciências da computação
 
-*   🌎  Vivendo em São Paulo, Brasil
+*   🌎  Morando em São Paulo, Brasil
 *   ✉️  Pode me contatar em [phenriquemadeira@gmail.com](mailto:phenriquemadeira@gmail.com)
   
 Conhecimentos
