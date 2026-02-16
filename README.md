@@ -7,10 +7,10 @@ Desenvolvedor
 
 Estudante de Ciências da computação
 
-*   🌎  Morando em São Paulo, Brasil
-*   ✉️  Pode me contatar em [phenriquemadeira@gmail.com](mailto:phenriquemadeira@gmail.com)
+*   🌎  Morando em jundiaí, São Paulo, Brasil
+*   ✉️  Pode me contatar em: [phenriquemadeira@gmail.com](mailto:phenriquemadeira@gmail.com)
   
-Conhecimentos
+Conhecimentos:
  
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
