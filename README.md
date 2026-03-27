@@ -6,7 +6,7 @@
 	<a href="mailto:phenriquemadeira@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail" />
 	</a>
-	<a href="https://www.linkedin.com/in/pedroma193/">
+	<a href="https://www.linkedin.com/in/pedroma193/" target="_blank">
 		<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
 	</a>
 </p>
