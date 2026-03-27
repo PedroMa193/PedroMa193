@@ -30,6 +30,10 @@
   </picture>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/PedroMa193/PedroMa193/output/github-contribution-grid-snake.svg)
+
+![Snake dark](https://raw.githubusercontent.com/PedroMa193/PedroMa193/output/github-contribution-grid-snake-dark.svg)
+
 <br>
 
 <div align="center">
