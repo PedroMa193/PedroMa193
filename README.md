@@ -17,6 +17,8 @@
                             border-radius: 15px;">
   <h2 style="color: white;">👋 Fala, sou o PedroMa193</h2>
 </div>
+![Background com info](https://link-da-imagem.gif)
+<img src="https://meu-servidor.com/fundo-animado.svg" alt="Background animado" />
 
 <br>
 
