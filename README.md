@@ -11,6 +11,13 @@
 	</a>
 </p>
 
+<div align="center" style="background-image: url('https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif'); 
+                            background-size: cover; 
+                            padding: 50px; 
+                            border-radius: 15px;">
+  <h2 style="color: white;">👋 Fala, sou o PedroMa193</h2>
+</div>
+
 <br>
 
 <p align="center">
