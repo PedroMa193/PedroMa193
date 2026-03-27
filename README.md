@@ -36,6 +36,6 @@
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardobbr&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMa193&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </div>
