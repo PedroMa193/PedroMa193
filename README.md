@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" />
     <img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Hi GIF" />
   </picture>
-  Estudante de Ciências da Computação, focado em criar projetos criativos, funcionais e divertidos.
+  Olá, sou Pedro \n Estudante de Ciências da Computação, focado em criar projetos criativos, funcionais e divertidos.
 </p>
 
 <p align="center">
