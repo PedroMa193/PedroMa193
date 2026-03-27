@@ -13,24 +13,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: PedroMa193
-          output: dist/github-contribution-grid-snake.svg
-      
-      - name: Generate dark snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: PedroMa193
-          output: dist/github-contribution-grid-snake-dark.svg
-          palette: github-dark
+          github_user_name: eduardobbr
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
