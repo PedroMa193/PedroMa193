@@ -25,6 +25,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" />
+    <img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Hi GIF" />
   </picture>
 </div>
 
