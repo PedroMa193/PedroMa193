@@ -28,7 +28,6 @@
     <img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Hi GIF" />
   </picture>
 </div>
-<img src='https://s2.ezgif.com/tmp/ezgif-2c4b2e1966bb1cc4.gif'/>
 
 <br>
 
