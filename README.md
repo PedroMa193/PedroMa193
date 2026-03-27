@@ -1,5 +1,9 @@
 <p align="center">
-  Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
+
+</p>
+
+<p align="center">
+  Estudante de Ciências da Computação, focado em criar projetos criativos, funcionais e divertidos.
 </p>
 
 <p align="center">
@@ -26,6 +30,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" />
     <img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Hi GIF" />
+  </picture>
+</div>
+
+<br>
+
+<div align='center'>
+  <picture>
+    <img src="https://raw.githubusercontent.com/pedroma193/pedroma193/output/snake.svg" alt="Snake animation" />
   </picture>
 </div>
 
