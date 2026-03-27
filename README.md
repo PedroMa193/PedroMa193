@@ -24,8 +24,7 @@
 
 <div align="center">
   <picture>
-    <source src="https://camo.githubusercontent.com/9e4b923486963efdfc8ba48823065624a3b7e2d9ada614e0614f42e10bb17dc2/68747470733a2f2f6d656469612e74656e6f722e636f6d2f447565695850455a433673414141416a2f68692d7477697463682e676966"/>
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" />
 </div>
 
 <br>
