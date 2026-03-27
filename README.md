@@ -1,4 +1,6 @@
-###Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
+<p align="center">
+  Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
+</p>
 
 <p align="center">
 	<a href="mailto:phenriquemadeira@gmail.com">
@@ -17,8 +19,6 @@
   <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte" />
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000" alt="TypeScript" />
 </p>
-
-<br>
 
 <br>
 
