@@ -11,14 +11,14 @@
 	</a>
 </p>
 
-<div align="center" style="background-image: url('https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif'); 
+<div align="center" style="background-image: url('https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif'); 
                             background-size: cover; 
                             padding: 50px; 
                             border-radius: 15px;">
   <h2 style="color: white;">👋 Fala, sou o PedroMa193</h2>
 </div>
-![Background com info](https://link-da-imagem.gif)
-<img src="https://meu-servidor.com/fundo-animado.svg" alt="Background animado" />
+![Background com info](https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif)
+<img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Background animado" />
 
 <br>
 
