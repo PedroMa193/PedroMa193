@@ -1,8 +1,9 @@
-<p align="center">
-
-</p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" />
+    <img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Hi GIF" />
+  </picture>
   Estudante de Ciências da Computação, focado em criar projetos criativos, funcionais e divertidos.
 </p>
 
@@ -23,15 +24,6 @@
   <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte" />
   <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000" alt="TypeScript" />
 </p>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" />
-    <img src="https://media.tenor.com/DueiXPEZC6sAAAAj/hi-twitch.gif" alt="Hi GIF" />
-  </picture>
-</div>
 
 <br>
 
