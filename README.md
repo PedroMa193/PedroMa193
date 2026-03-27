@@ -1,6 +1,4 @@
-<p align="center">
-  ##Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
-</p>
+###Desenvolvedor focado em criar projetos modernos, funcionais e bem estruturados.
 
 <p align="center">
 	<a href="mailto:phenriquemadeira@gmail.com">
